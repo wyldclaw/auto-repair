@@ -1,0 +1,7 @@
+## Interface: 90100
+## Title: Auto Repair
+## Author: Wyldclaw-Lightbringer
+## Version: 1.0.0
+## Notes: Automatically repair all items
+
+AutoRepair.lua
