@@ -1,7 +1,8 @@
-## Interface: 90100
+## Interface: 100105
 ## Title: Auto Repair
 ## Author: Wyldclaw-Lightbringer
 ## Version: 1.0.0
 ## Notes: Automatically repair all items
+## IconAtlas: SpellIcon-256x256-RepairAll
 
 AutoRepair.lua
